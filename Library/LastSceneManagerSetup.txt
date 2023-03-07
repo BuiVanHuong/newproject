@@ -1,0 +1,6 @@
+sceneSetups:
+- path: C:/Users/Admin/AppData/Local/Temp/Temp2_Prototype 3.zip/Prototype 3/Assets/Scenes/Prototype
+    3.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
